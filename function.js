@@ -6,3 +6,4 @@ function1();
 const functionContainer = () =>{
   console.log('Arrow Function');
 }
+functionContainer();
