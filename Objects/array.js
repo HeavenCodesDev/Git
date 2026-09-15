@@ -10,3 +10,4 @@ array1[0]();
 console.log(array1[1]);
 
 const array2 = [1,2,3,4];
+console.log(array2);
